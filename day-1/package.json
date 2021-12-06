@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "start": "node ./dist/part-1.js",
     "build": "tsc",
     "build:watch": "tsc -w"
   },
